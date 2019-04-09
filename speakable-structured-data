@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org/",
+ "@type": "WebPage",
+ "name": "冷卻水塔原理",
+ "speakable":
+ {
+  "@type": "SpeakableSpecification",
+  "xpath": [
+    "/html/head/title",
+    "/html/head/meta[@name='description']/@content"
+    ]
+  },
+ "url": "https://cooling-tower.com.tw/solution-tw/skill-knowledre-tw/closed-circuit-cooing-tower-tec-tw/what-is-closed-circuit-cooling-tower-tw"
+ }
+</script>
